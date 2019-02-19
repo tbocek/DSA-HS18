@@ -1,0 +1,11 @@
+{
+  "name": "DSA-webrtc",
+  "version": "1.0.0",
+  "repository": "git@github.com:tbocek/DSA-webrtc.git",
+  "author": "Thomas Bocek <thomas.bocek@hsr.ch>",
+  "license": "Apache2",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ws": "^6.0.0"
+  }
+}
